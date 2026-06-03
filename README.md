@@ -6,7 +6,7 @@ This repository contains all neural data, and code to generate the figures, from
 
 
 
-`Miranda Bruno, Butler James L, Malalasekera W M Nishantha, Behrens Timothy EJ, Dayan Peter, Kennerley Steven W (2025) Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum eLife 14:RP106032`
+`Miranda Bruno, Butler James L, Malalasekera W M Nishantha, Behrens Timothy EJ, Dayan Peter, Kennerley Steven W (2025) Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum. eLife2026;14:RP106032 DOI: https://doi.org/10.7554/eLife.106032.3`
 
 
 
